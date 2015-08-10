@@ -1,7 +1,7 @@
 # Test Plan
+---
 
-
-##1 Testing Strategy
+### 1. Testing Strategy
 
 
 #### 1.1 Overall strategy
@@ -28,6 +28,6 @@
 #### 1.5 Technology
 *Here list/describe any additional additional relevant information about the tools and systems that will be used to conduct the testing of the application and its dependencies.
 
-## 2 Test Cases
+### 2. Test Cases
 *In this section describe the test cases for the application and list which tool they are being conducted using. No subsections are given because they are to be filled in by the user. This section will be constantly expanding as development progresses. The purpose is to be a reference for both application developers and test developers. Expand as team sees fit.*
 
