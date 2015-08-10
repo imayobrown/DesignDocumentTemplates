@@ -1,5 +1,6 @@
 # Vision Document
 
+
 ## 1. Introduction
 *In this section provide introductory details about the software (application, system, etc.). This can include where the inspiration for the initial idea originated.*
 
