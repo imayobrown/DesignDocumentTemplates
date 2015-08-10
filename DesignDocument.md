@@ -1,8 +1,8 @@
 # Design Document
 
-**Author**: Ian Brown
 
-## 1 Design Considerations
+## 1. Design Considerations
+
 
 ### 1.1 Assumptions
 
@@ -15,7 +15,7 @@
 ### 1.3 System Environment
 
 
-## 2 Architectural Design
+## 2. Architectural Design
 
 
 ### 2.1 Component Diagram
@@ -24,7 +24,7 @@
 ### 2.2 Deployment Diagram
 
 
-## 3 Low-Level Design
+## 3. Low-Level Design
 
 
 ### 3.1 Class Diagram

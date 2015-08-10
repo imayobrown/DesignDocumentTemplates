@@ -1,3 +1,3 @@
 # DesignDocumentTemplates
 
-Design document templates in Markdown format.
+Light weight design document templates in Markdown format.

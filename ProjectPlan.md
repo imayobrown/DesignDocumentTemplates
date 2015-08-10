@@ -1,4 +1,4 @@
-# **Project Plan**
+# Project Plan
 
 
 ## 1. Introduction 
