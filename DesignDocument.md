@@ -36,3 +36,12 @@
 
 ## 4 User Interface Design
 *Provide here any user interface mock-ups or templates. Include explanations to describe the screen flow or progression.*
+
+## 5 Appendices and References
+
+
+#### 5.1 Definitions and Abbreviations
+*List here any definitions or abbreviations that could be used to help a new team member understand any jargon that is frequently referenced in the design document.*
+
+#### 5.2 References
+*List here any references that can be used to give extra information on a topic found in the design document. These references can be referred to using superscript in the rest of the document.*
