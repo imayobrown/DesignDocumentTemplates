@@ -8,7 +8,7 @@
 *In this section provide an overview of what solutions are provided by the software. Who is the target audience? How will the software help them? What are the expected improvements (time, efficiency, ease of access, etc) to be expected by the target audience?*
 
 ## 3. Business Needs / Requirements
-*Provide here a list of the user requirements that software will solve. These can be brief descriptions of the requirements which can be built upon in a separate requirements document.*
+*Provide here a brief overview of the user requirements/needs that the software will solve. The detailed list of requirements will be outlined in the requirements document.*
 
 ## 4. Major Features
 *Many applications or systems have multiple parts and features. Here describe briefly each of the major features that will provide the user with functionality.*

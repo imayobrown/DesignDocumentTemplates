@@ -33,5 +33,5 @@
        |                 |                        |
        |             	 |                        |
 
-## 4. Estimates
+## 4. Estimates and Deadlines
 *List here rough estimates for time and code. These should provide a course outline for the required man power for the project.*
