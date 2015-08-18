@@ -5,7 +5,7 @@
 
 
 #### 1.1 Assumptions
-*In this seciton describe any assumptions, background, or dependencies of the software, its use, the operational environment, or significant project issues.*
+*In this section describe any assumptions, background, or dependencies of the software, its use, the operational environment, or significant project issues.*
 
 #### 1.2 Constraints
 *In this section describe any constraints on the system that have a significant impact on the design of the system.*
@@ -28,20 +28,20 @@
 #### 2.4 Sequence Diagrams
 *Provide here any sequence diagrams. If possible list the use case they contribute to or solve. Provide descriptions if possible.*
 
-#### 2.4 Deployment Diagrams
+#### 2.5 Deployment Diagrams
 *Provide here the deployment diagram for the system including any information needed to describe it. Also, include any information needed to describe future scaling of the system.*
 
-#### 2.5 Other Diagrams
+#### 2.6 Other Diagrams
 *Provide here any additional diagrams and their descriptions in subsections.*
 
-## 4 User Interface Design
+## 3 User Interface Design
 *Provide here any user interface mock-ups or templates. Include explanations to describe the screen flow or progression.*
 
-## 5 Appendices and References
+## 4 Appendices and References
 
 
-#### 5.1 Definitions and Abbreviations
+#### 4.1 Definitions and Abbreviations
 *List here any definitions or abbreviations that could be used to help a new team member understand any jargon that is frequently referenced in the design document.*
 
-#### 5.2 References
+#### 4.2 References
 *List here any references that can be used to give extra information on a topic found in the design document. These references can be referred to using superscript in the rest of the document.*
